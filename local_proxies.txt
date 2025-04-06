@@ -1,3 +1,5 @@
-socks5://Masjab-zone-custom-sessid-cCyfsOFM-sessTime-10:T94Nv3GC@aus.360s5.com:3600
-socks5://Masjab-zone-custom-sessid-IBWWIaYP-sessTime-10:T94Nv3GC@aus.360s5.com:3600
-socks5://Masjab-zone-custom-sessid-4aWHDzjg-sessTime-10:T94Nv3GC@aus.360s5.com:3600
+socks5://b2OZYKdYl9mpzC6:hPm8QnBGWkjhX2S@92.113.87.85:42797
+socks5://sOcupRTwtmRCv6Q:aQ1RoRAbDwk0FMQ@46.202.204.20:46934
+socks5://b2Lc1HSqpYMuoVM:TiMc9fSfRIMuoAd@31.135.6.97:42318
+socks5://7ePb3IUOR3G8wBo:Xtt6ctCo1cgmxaP@37.49.149.131:52800
+socks5://50VEc4jehdScZQ9:3RJy5AYmlihkfGJ@176.103.228.8:47025
